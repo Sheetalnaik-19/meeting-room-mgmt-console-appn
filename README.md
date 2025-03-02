@@ -1,4 +1,4 @@
-write a conole-based application that manages meeting rooms in an office. Room can be a conference room or training room.
+write a console-based application that manages meeting rooms in an office. Room can be a conference room or training room.
 application can manage number of participants and allows user to assign the participant to the room.
 answer code to exercise.
 create a front desk that allows users to perform the following actions 
